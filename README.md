@@ -16,7 +16,7 @@ To continuously deliver quality software that meets customer's requirements by m
 
 Achieved by:
 
- - Having layres of tests to catpture bugs/defects early in the development life cycle
+ - Having layers of tests to catpture bugs/defects early in the development life cycle
  - Reduce time taken for regression
 
 ***
