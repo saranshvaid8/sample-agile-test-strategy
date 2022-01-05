@@ -1,4 +1,4 @@
-# Sample Agile Test Strategy
+# Sample Agile Test Strategy :white_check_mark:
 This is a sample test strategy document used to list practices and a structure that teams can use to improve the testing approach
 
 
@@ -21,7 +21,7 @@ Achieved by:
 
 ***
 ### Principles
-
+- :construction: work in progress
 ***
 ### Testing Approach
 
