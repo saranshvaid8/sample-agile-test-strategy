@@ -1,8 +1,26 @@
 # Sample Agile Test Strategy :white_check_mark:
 This is a sample test strategy document used to list practices and a structure that teams can use to improve the testing approach
 
+***
+##### Table of Contents  
+1. [Purpose](#purpose)  
+2. [Goal](#goal) 
+3. [Principles](#principles)
+4. [Testing Approach](#testing_approach)
+   - [Test Pyramid](#test_pyramid)
+      - [Unit tests](#unit_tests)
+      - [Integration tests/Contract tests](#integration_tests)
+      - [End-to-End test](#e2e_tests)
+      - [Manual Exploratory Testing](#exploratory_tests)
+
+
+5. [Tools](#tools)
+6. [Test Deliverables](#deliverables)
+ 7.[Assumptions, Risk and Dependencies](#assumptions)
+
 
 ***
+<a name="purpose"></a>
 ### Purpose
 The purpose of the document is to create a shared understanding of the overall goals, approach, tools and timings of testing activities that can be followed to ensure delivery of the product with predictable bheviour, performance and quality.
 
@@ -10,6 +28,7 @@ The test strategy guides us through common obstacles with a clear view of how to
 
 
 ***
+<a name="goal"></a>
 ### Goal
 
 To continuously deliver quality software that meets customer's requirements by means of quick feedback and defect prevention.
@@ -20,13 +39,17 @@ Achieved by:
  - Reduce time taken for regression
 
 ***
+<a name="principles"></a>
 ### Principles
 - :construction: work in progress
+
 ***
+<a name="testing_approach"></a>
 ### Testing Approach
 
 Having layers of tests essentially act as a risk filter that tries to filters anomalies at various levels.
 
+<a name="test_pyramid"></a>
 #### Test Pyramid
 
  The Testing Pryamid is a framework that helps the engineering team create high-quality software. It helps the team reduce time in identifying breaking changes and be more confident in introducing code changes.
@@ -109,9 +132,15 @@ Exploratory testing is a testing technique where an individual explores the syst
 
 
 ***
+<a name="deliverables"></a>
 ### Test Deliverables
 
+1. Product/Feature
+
+2. Product/Feature
+
 ***
+<a name="assumptions"></a>
 ### Assumptions, Risks and Dependencies
 | Assumption      | Impact of incorrect Assumptions |
 | ----------- | ----------- |
