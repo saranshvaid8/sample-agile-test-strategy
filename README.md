@@ -25,7 +25,7 @@ Achieved by:
 ***
 ### Testing Approach
 
-Having layers of tests essentially act as a risk filter that tries to filters anomalies at verious levels.
+Having layers of tests essentially act as a risk filter that tries to filters anomalies at various levels.
 
 #### Test Pyramid
 
@@ -105,6 +105,7 @@ Exploratory testing is a testing technique where an individual explores the syst
  - [Selenium Web Driver](https://www.selenium.dev/documentation/webdriver/)
  - [Postman](https://www.postman.com/)
  - [Jmeter](https://jmeter.apache.org/)
+ - [Appium](https://appium.io/)
 
 
 ***
